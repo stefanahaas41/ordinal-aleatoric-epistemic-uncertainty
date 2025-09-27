@@ -1,0 +1,4 @@
+results-*
+*.tex
+venv
+.idea
