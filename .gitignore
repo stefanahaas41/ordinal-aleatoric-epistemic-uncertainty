@@ -2,3 +2,4 @@ results-*
 *.tex
 venv
 .idea
+*.pdf
