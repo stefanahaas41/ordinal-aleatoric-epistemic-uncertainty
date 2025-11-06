@@ -1,5 +1,7 @@
+# Aleatoric and Epistemic Uncertainty Measures for Ordinal Classification through Binary Reduction
 Code and data for the paper "Aleatoric and Epistemic Uncertainty Measures for Ordinal Classification through Binary Reduction"
 
+## Citation
 ```bibtex
 @misc{haas2025aleatoricepistemicuncertaintymeasures,
       title={Aleatoric and Epistemic Uncertainty Measures for Ordinal Classification through Binary Reduction}, 
